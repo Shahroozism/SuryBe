@@ -1,5 +1,5 @@
 # SuryBe
-'Eventbrite'-like webapp with React, Redux and Firestore
+'Eventbrite'-like app with React, Redux and Firestore
 
 A work in progress.. 
 
